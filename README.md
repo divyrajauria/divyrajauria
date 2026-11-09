@@ -1,1 +1,1 @@
-Designer and developer building web platforms and mobile experiences.
+Designer and product builder crafting web platforms and mobile experiences.
